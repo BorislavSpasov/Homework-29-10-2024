@@ -1,0 +1,14 @@
+C:\Users\thesh\source\repos\arrays2\arrays2\bin\Debug\net8.0\arrays2.exe
+C:\Users\thesh\source\repos\arrays2\arrays2\bin\Debug\net8.0\arrays2.deps.json
+C:\Users\thesh\source\repos\arrays2\arrays2\bin\Debug\net8.0\arrays2.runtimeconfig.json
+C:\Users\thesh\source\repos\arrays2\arrays2\bin\Debug\net8.0\arrays2.dll
+C:\Users\thesh\source\repos\arrays2\arrays2\bin\Debug\net8.0\arrays2.pdb
+C:\Users\thesh\source\repos\arrays2\arrays2\obj\Debug\net8.0\arrays2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesh\source\repos\arrays2\arrays2\obj\Debug\net8.0\arrays2.AssemblyInfoInputs.cache
+C:\Users\thesh\source\repos\arrays2\arrays2\obj\Debug\net8.0\arrays2.AssemblyInfo.cs
+C:\Users\thesh\source\repos\arrays2\arrays2\obj\Debug\net8.0\arrays2.csproj.CoreCompileInputs.cache
+C:\Users\thesh\source\repos\arrays2\arrays2\obj\Debug\net8.0\arrays2.dll
+C:\Users\thesh\source\repos\arrays2\arrays2\obj\Debug\net8.0\refint\arrays2.dll
+C:\Users\thesh\source\repos\arrays2\arrays2\obj\Debug\net8.0\arrays2.pdb
+C:\Users\thesh\source\repos\arrays2\arrays2\obj\Debug\net8.0\arrays2.genruntimeconfig.cache
+C:\Users\thesh\source\repos\arrays2\arrays2\obj\Debug\net8.0\ref\arrays2.dll
